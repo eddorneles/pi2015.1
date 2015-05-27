@@ -1,0 +1,29 @@
+# depslib dependency file v1.0
+1427666246 source:/home/ed-dorneles/Documentos/Estudo/Disciplinas/ProcessamentoImagens/Atividades/a03melhoramentoImagens01/main.cpp
+	<iostream>
+	<stdio.h>
+	<string.h>
+	<opencv2/opencv.hpp>
+	"melhimg.hpp"
+
+1427739164 source:/home/ed-dorneles/Documentos/Estudo/Disciplinas/ProcessamentoImagens/Atividades/a03melhoramentoImagens01/melhimg.cpp
+	"melhimg.hpp"
+	<stdio.h>
+
+1427658642 /home/ed-dorneles/Documentos/Estudo/Disciplinas/ProcessamentoImagens/Atividades/a03melhoramentoImagens01/melhimg.hpp
+	<opencv2/opencv.hpp>
+
+1427666246 source:/run/media/ed-dorneles/Ed-Dorneles/Estudo/ProcessamentoImagens/a03melhoramentoImagens01/main.cpp
+	<iostream>
+	<stdio.h>
+	<string.h>
+	<opencv2/opencv.hpp>
+	"melhimg.hpp"
+
+1427658642 /run/media/ed-dorneles/Ed-Dorneles/Estudo/ProcessamentoImagens/a03melhoramentoImagens01/melhimg.hpp
+	<opencv2/opencv.hpp>
+
+1427666746 source:/run/media/ed-dorneles/Ed-Dorneles/Estudo/ProcessamentoImagens/a03melhoramentoImagens01/melhimg.cpp
+	"melhimg.hpp"
+	<stdio.h>
+
